@@ -1,7 +1,6 @@
 ---
 layout: slide
 title: “Welcome to our second slide!” 
-
 ---
-Your test
+hello uday
 Use the left arrow to go back!
